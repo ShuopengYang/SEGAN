@@ -3,7 +3,7 @@ Procedures and instructions of SEGAN
 
 
 Dependencies :
-Python >= 3.7 (Recommend to use Anaconda or Miniconda)
+Python >= 3.7 (Recommend to use Anaconda)
 PyTorch >= 1.7
 
 
